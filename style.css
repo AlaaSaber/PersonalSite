@@ -1,0 +1,104 @@
+*{
+    transition: all 1s;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    overflow-x: hidden;
+}
+ul{
+    
+    margin-left: 900px;
+}
+ul li a{
+        color: yellow !important;
+
+}
+
+ul li a:hover{
+    background-color:burlywood;
+    
+}
+
+.navbar-brand{
+color: yellow !important;    
+    
+}
+.content {
+
+     width: 100%;
+     height: 650px;
+     background-image:url(images/inhale_the_future_exhale_the_past_quote-wallpaper-1366x768.jpg);
+     background-size:cover;   
+     padding:200px 120px;
+     object-fit:fill;
+    
+    
+
+
+
+
+}
+
+.content h1{
+     width: 70%; 
+     font-size:70px;
+     color:white;  
+    font-family: 'Titillium Web', sans-serif;
+        font-family: 'Merienda', cursive;
+
+}
+.content h1 span{
+    color: #EFAD1E;
+}
+.content p{
+    color: white;
+    font-size: 35px;
+        font-family: 'Merienda', cursive;
+
+}
+.overviewword{
+    width: 80px;
+}
+.overviewword:hover{
+        color:darkkhaki;
+    padding: inherit;
+    cursor: pointer;
+
+}
+
+.skills{
+    background-color: lightgray;
+    height: 600px;
+}
+.ttforheight{
+    margin-top: 100px;
+}
+#works{
+    overflow: hidden;
+}
+#contactme{
+    background-color: black;
+    height: 430px;
+    color:azure;
+}
+
+.contactword{
+    width: 200px;
+}
+
+.contactword:hover{
+        color:#F19E00;
+  
+}
+.bb{
+    transition: all 1s;
+}
+.icons{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.icons:hover{
+    color:#F19E00;
+}
