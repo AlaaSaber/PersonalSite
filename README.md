@@ -1,2 +1,2 @@
 # PersonalSite
- PersonalSite (HTML , CSS) in 2018
+ PersonalSite (HTML , CSS , JS) in 2018
